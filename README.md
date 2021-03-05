@@ -7,7 +7,7 @@ Input: Two N*N matrices. N = 2^{K}, where K is a natural number.
 Output: An array of length 2N-1.
 
 Sample Input/Output:
-[! alt text](https://lh6.googleusercontent.com/0HmiZLTZmsc_3dYGPRjYfc1NaaqFG41gb6XmYJn977hmTXgM4cOO0E3Qm8bqealfK38=w1200-h630-p)
+![alt text](https://lh6.googleusercontent.com/0HmiZLTZmsc_3dYGPRjYfc1NaaqFG41gb6XmYJn977hmTXgM4cOO0E3Qm8bqealfK38=w1200-h630-p)
 
 Three major activites that I have to perform:
 1. Single-Threading DMM (CPU): Reduce the execution time of the DMM considering it as single thread. I have learnt many concepts like loop nested optimisation in this part.
